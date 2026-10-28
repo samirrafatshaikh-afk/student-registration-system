@@ -21,3 +21,19 @@ Search students by email or name
 Edit student edit the existing details update
 Delete Student records
 
+How to Install and run
+Install Xampp on your computer
+Start Apache and MYSQL from the xampp control panel
+Copy the project folder into c:
+\xamp\htdocs\.
+Create the required MYSQL database and student table using phpMyAdmin
+Open your browser and Visit
+http://localhost/Phpcourse1/project.php
+Register a student test the view,search edit and delete features
+Note:the database name and table structure must match the hp code
+Project Status
+developed as a learning project to practice php and mysql
+Author
+BCA student
+
+
